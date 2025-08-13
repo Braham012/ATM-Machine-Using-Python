@@ -1,4 +1,5 @@
 # 🏦 ATM Machine (Bank Management System) — Python & MySQL
+This project simulates the functionality of an Automated Teller Machine (ATM) by combining Python’s programming capabilities with an SQL database for data storage and management. The system allows users to create accounts, authenticate using a PIN, and perform common banking operations such as checking balance, depositing money , withdrawing cash.
 ## 📌 Overview
 The ATM Machine (Bank Management System) is a console-based Python application that simulates essential banking operations while storing and retrieving customer data from a MySQL database.
 

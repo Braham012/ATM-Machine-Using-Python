@@ -1,4 +1,4 @@
-🏦 ATM Machine (Bank Management System) — Python & MySQL
+# 🏦 ATM Machine (Bank Management System) — Python & MySQL
 📌 Overview
 The ATM Machine (Bank Management System) is a console-based Python application that simulates essential banking operations while storing and retrieving customer data from a MySQL database.
 
@@ -33,9 +33,11 @@ Connector: mysql-connector-python
 Database: bank
 Table: customer_details
 
-Column	Type	Description
-CUSTOMER_NAME	VARCHAR(100)	Name of the customer
-CUSTOMER_ID	INT	Unique customer ID (Primary)
-PIN	INT	4-digit ATM PIN
-AMOUNT	INT	Account balance
+| Column         | Type         | Description                  |
+| -------------- | ------------ | ---------------------------- |
+| CUSTOMER\_NAME | VARCHAR(20) | Name of the customer         |
+| CUSTOMER\_ID   | INT          | Unique customer ID (Primary) |
+| PIN            | INT          | 4-digit ATM PIN              |
+| AMOUNT         | INT          | Account balance              |
+
 

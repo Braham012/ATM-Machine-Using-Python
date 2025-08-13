@@ -54,3 +54,5 @@ Connector: mysql-connector-python
 ![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20222722.png?raw=true)
 
 ### Deposit
+![deposit](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20230019.png?raw=true)
+![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20230101.png?raw=true)

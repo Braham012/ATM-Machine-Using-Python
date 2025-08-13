@@ -52,4 +52,5 @@ Connector: mysql-connector-python
 ### Withdraw
 ![withdraw](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20222531.png?raw=true)
 ![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20222722.png?raw=true)
-4. Database View
+
+### Deposit

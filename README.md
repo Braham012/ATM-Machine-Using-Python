@@ -15,9 +15,9 @@ Check account balance
 This project demonstrates Python–MySQL integration using the mysql-connector-python library and is a great example for beginners learning database-driven applications.
 
 ## ✨ Features
-### ✅ User Registration — Create a new account with name, customer ID, PIN, and initial deposit.
-### ✅ Secure Login — Authenticate using customer ID and PIN.
-### ✅ Deposit — Add funds to your account.
+#### ✅ User Registration — Create a new account with name, customer ID, PIN, and initial deposit.
+#### ✅ Secure Login — Authenticate using customer ID and PIN.
+#### ✅ Deposit — Add funds to your account.
 #### ✅ Withdraw — Withdraw funds with insufficient balance validation.
 #### ✅ Balance Inquiry — Check current account balance.
 #### ✅ Database Persistence — All data stored securely in MySQL.

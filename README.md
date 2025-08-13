@@ -46,10 +46,10 @@ Connector: mysql-connector-python
 ![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Working%20Screenshot/Screenshot%202025-08-13%20214435.png?raw=true)
 
 ### User Registration
-![registration](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Working%20Screenshot/Screenshot%202025-08-13%20214502.png?raw=true)
-![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Working%20Screenshot/Screenshot%202025-08-13%20214605.png?raw=true)
+![registration](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20214502.png?raw=true)
+![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20214605.png?raw=true)
 
-
-3. Login & Operations Menu
-
+### Withdraw
+![withdraw](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20222531.png?raw=true)
+![database](https://github.com/Braham012/Bank-Management-Using-Python/blob/main/Screenshot/Screenshot%202025-08-13%20222722.png?raw=true)
 4. Database View
